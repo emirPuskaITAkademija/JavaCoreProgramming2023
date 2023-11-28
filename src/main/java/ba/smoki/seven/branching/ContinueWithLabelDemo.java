@@ -1,7 +1,5 @@
 package ba.smoki.seven.branching;
 
-import ba.smoki.seven.oop.Person;
-
 /**
  * "petar pan je pojeo pet punjenih paprika poslije predavanja i zato je pan"
  * <p>
@@ -10,8 +8,6 @@ import ba.smoki.seven.oop.Person;
  */
 public class ContinueWithLabelDemo {
     public static void main(String[] args) {
-
-
         String recenica = "petar pan je pojeo panprike i zato je pan petar";
         String rijec = "pan";
         boolean rijecJesteDioRecenice = false;
